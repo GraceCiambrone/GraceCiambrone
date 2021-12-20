@@ -3,7 +3,6 @@
 🔭 I'm a undergrad CS major at PSU interested in machine learning!
 
 📖 I’m currently reading ...
--   Fluent Python
 -   C++ Crash Course: A Fast-Paced Introduction
 
 🌱 Tech Books I have read in 2020-21
