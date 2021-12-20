@@ -10,8 +10,3 @@
 -   Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
 -   Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition
 -   Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
-
-📫 How to reach me: ciambronegrace@gmail.com
-
-⚡ Fun fact: I play guitar and love hiking!
-
