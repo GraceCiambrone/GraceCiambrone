@@ -1,11 +1,3 @@
 ### Hi there 👋
 
 🔭 I'm a undergrad CS major at PSU interested in machine learning!
-
-📖 I’m currently reading ...
--   C++ Crash Course: A Fast-Paced Introduction
-
-🌱 Tech Books I have read in 2020-21
--   Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
--   Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition
--   Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
